@@ -1,2 +1,2 @@
 # project-euler
-Solutions to projecteuler.net problems.
+Solutions to projecteuler.net problems written in Rust.
